@@ -1,0 +1,6 @@
+Anhand der inc/navigation-config.json soll einen Navigation wie in 
+finished.html angegeben erstellt werden.
+
+Dazu ist eine Klasse zu programmieren (z. B. Navigation). Diese sollte
+namespaced sein. Die Namespaces sollten auch in der Ordnerstruktur 
+abgebildet werden
