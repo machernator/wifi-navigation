@@ -1,0 +1,32 @@
+[
+    {
+        "url": "http://orf.at",
+        "linkText": "ORF Online",
+        "tagAttributes": {
+            "class": "active",
+            "title": "Der Online Auftritt des ORF"
+        }
+    },
+    {
+        "url": "http://Kurier.at",
+        "linkText": "Kurier",
+        "tagAttributes": {
+            "title": "Die Tageszeitung Kurier - Online"
+        }
+    },
+    {
+        "url": "http://derstandard.at",
+        "linkText": "Der Standard",
+        "tagAttributes": {
+            "class": "active",
+            "title": "Die Tageszeitung Der Standard - Online"
+        }
+    },
+    {
+        "url": "http://diepresse.com",
+        "linkText": "Die Presse",
+        "tagAttributes": {
+            "title": "Die Presse - Online"
+        }
+    },
+]
